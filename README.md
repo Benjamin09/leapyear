@@ -1,6 +1,8 @@
 ## Leap Year Calculation
 Takes a year and returns whether or not it is a leap year.
 
+# Conditions
+
 | Behavior                                     | Input| Output |
 | -------------------------------------------- | ---- | ----- |
 | return false when a year is not a leap year  | 1993 | false  |
