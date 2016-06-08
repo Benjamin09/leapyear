@@ -1,7 +1,7 @@
-## Leap Year Calculation
+# Leap Year Calculation
 Takes a year and returns whether or not it is a leap year.
 
-# Conditions
+## Conditions
 
 | Behavior                                     | Input| Output |
 | -------------------------------------------- | ---- | ----- |
